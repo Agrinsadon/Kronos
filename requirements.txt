@@ -9,6 +9,6 @@ matplotlib==3.9.3
 tqdm==4.67.1
 safetensors==0.6.2
 
-schedule
+schedule==1.2.2
 python-telegram-bot==22.1
-yfinance
+yfinance==0.2.65
